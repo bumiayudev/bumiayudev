@@ -1,11 +1,11 @@
 # Hello everybody, I wish u always have a nice day.
 
-- Motto :
- -[] Semakin berisi semakin merunduk
- -[] Selalu berdo'a sebelum beraktifitas
- -[] Bekerja dengan sepenuh hati dan ikhlas demi ridho tuhan
- -[] Berani berkata benar
- -[] Kopi teman terbaik di saat kita butuh kosentrasi dan  inspirasi cemerlang
+- Motto : 
+ - [ ] Semakin berisi semakin merunduk
+ - [ ] Selalu berdo'a sebelum beraktifitas
+ - [ ] Bekerja dengan sepenuh hati dan ikhlas demi ridho tuhan
+ - [ ] Berani berkata benar
+ - [ ] Kopi teman terbaik di saat kita butuh kosentrasi dan  inspirasi cemerlang
 
 - 👋 Hi, I’m Husni Arrasyid
 - 👀 I’m interested in web programming
