@@ -1,6 +1,11 @@
 # Hello everybody, I wish u always have a nice day.
 
-![me](https://github.com/bumiayudev/bumiayudev/assets/47378379/e91d4fc6-8c5f-4d86-a261-5a46ea47b087)
+- Motto :
+ -[] Semakin berisi semakin merunduk
+ -[] Selalu berdo'a sebelum beraktifitas
+ -[] Bekerja dengan sepenuh hati dan ikhlas demi ridho tuhan
+ -[] Berani berkata benar
+ -[] Kopi teman terbaik di saat kita butuh kosentrasi dan  inspirasi cemerlang
 
 - 👋 Hi, I’m Husni Arrasyid
 - 👀 I’m interested in web programming
