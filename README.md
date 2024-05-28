@@ -1,3 +1,4 @@
+![pexels-kamo11235-667838](https://github.com/bumiayudev/bumiayudev/assets/47378379/08852d05-0839-4460-ab8a-557a229eeda9)
 - 👋 Hi, I’m Husni Arrasyid
 - 👀 I’m interested in web programming
 - 🌱 I’m currently learning php, node and python
